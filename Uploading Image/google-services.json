@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "763063861802",
+    "firebase_url": "https://uploadpdf-69fca-default-rtdb.firebaseio.com",
+    "project_id": "uploadpdf-69fca",
+    "storage_bucket": "uploadpdf-69fca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763063861802:android:dfd54b115b8f3ed7b47953",
+        "android_client_info": {
+          "package_name": "com.example.uploadpdf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ7XdeGpbw-68mLalva3IBOLz0kMZpZIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
