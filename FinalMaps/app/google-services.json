@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752969578050",
+    "project_id": "finalmaps-5d510",
+    "storage_bucket": "finalmaps-5d510.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752969578050:android:a7a16868278b8789135fdb",
+        "android_client_info": {
+          "package_name": "com.example.finalmaps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg9AAyAJDwufecQKnwDeQ41OzE_0ZUOMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
